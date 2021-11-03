@@ -7,7 +7,7 @@
 
 <h2>Hello world<h2>
   
-<img src=hello-world.html>
+<img src=helloworld.png>
 
 </body>
 </html>
