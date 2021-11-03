@@ -16,7 +16,7 @@
     </label>
   </div>
 
-  <a href="https://ainazik.herokuapp.com/">link Ainazik</a>
+  <a href="ainazik.php">link Ainazik</a>
   
   <div class="container" style="background-color:#f1f1f1">
     <button type="button" class="cancelbtn">Cancel</button>
