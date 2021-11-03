@@ -5,9 +5,9 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
 
-<h2>Hello world<\h2>
+<h2>Hello world<h2>
   
-<img src="hello-world.html" alt="" width="500" height="600">
+<img src="hello-world.html" width="500" height="600">
 
 </body>
 </html>
