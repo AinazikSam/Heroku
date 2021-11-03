@@ -11,7 +11,7 @@ Body {
 button {   
        background-color: #4CAF50;   
        width: 100%;  
-        color: orange;   
+        color: white;   
         padding: 15px;   
         margin: 10px 0px;   
         border: none;   
@@ -25,7 +25,7 @@ button {
         margin: 8px 0;  
         padding: 12px 20px;   
         display: inline-block;   
-        border: 2px solid green;   
+        border: 2px solid black;   
         box-sizing: border-box;   
     }  
  button:hover {   
@@ -40,7 +40,7 @@ button {
      
  .container {   
         padding: 25px;   
-        background-color: lightblue;  
+        background-color: black;  
     }   
 </style>   
 </head>    
