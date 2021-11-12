@@ -26,6 +26,7 @@
             <p>Name: Ainazik</p>
             <p>Surname: Samatova </p>
             <p>Age: 16</p>
+            <p>Location: Kyrgyzstan</p>
         </div>
     </section>
 </body>
