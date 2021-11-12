@@ -1,18 +1,34 @@
-<!-- Video Source --> 
-  <!-- https://www.pexels.com/video/plexus-of-abstract-geometrical-lines-and-figures-3129576/ --> 
-  <section class="showcase"> 
-    <header> 
-      <h2 class="logo">Coder</h2> 
-      <div class="toggle"></div> 
-      <link rel=¨stylesheet¨ type=¨text/css¨ href=¨..\SG\ai.css¨>
-    </header> 
-    <video src="https://traversymedia.com/downloads/videos/explore.mp4" muted loop autoplay></video> 
-    <div class="overlay"></div> 
-    <div class="text"> 
-      <h2>Portfolio</h2>  
-      <h3>About me</h3> 
-      <p>Something is here</p> 
-      <script src="..\SG\ai.js"></script>
-    </div> 
-    </div> 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ai.php">
+    <title>Portfolio</title>
+</head>
+
+<body>
+    <section class="showcase">
+        <header>
+            <h2 class="logo">Coder Girl</h2>
+            <div class="toggle"></div>
+        </header>
+
+        <video src="video.mp4" muted loop autoplay></video>
+
+        <div class="overlay"></div>
+
+        <div class="text">
+            <h2>In search of incredible</h2>
+            <h1>About me</h1>
+            <p>Name: Ainazik</p>
+            <p>Surname: Samatova </p>
+            <p>Age: 16</p>
+        </div>
+    </section>
+</body>
+
+</html>
       
