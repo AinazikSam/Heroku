@@ -12,7 +12,7 @@
       <h2>Portfolio</h2>  
       <h3>About me</h3> 
       <p>Something is here</p> 
-      <a href="#">Explore</a> 
       <script src="..\SG\ai.js"></script>
     </div> 
     </div> 
+      
