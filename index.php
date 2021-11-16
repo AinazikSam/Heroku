@@ -21,7 +21,7 @@
 
 <body>
     <div class="login-box">
-        <h1>Login</h1>
+                     <h1>Login</h1>
     </div>
     <form>
         <input type="text" placeholder="Username" name="username" /><br><br>
