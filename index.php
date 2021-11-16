@@ -3,7 +3,7 @@
 <head>
 
     <title>Login page</title>
-    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="ai.css">
 </head>
 <script type="text/javascript">
     function display(form) {
