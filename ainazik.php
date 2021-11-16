@@ -21,12 +21,9 @@
         <div class="overlay"></div>
 
         <div class="text">
-            <h2>In search of incredible</h2>
-            <h1>About me</h1>
+            <h2>About me</h2>
             <p>Name: Ainazik</p>
             <p>Surname: Samatova </p>
-            <p>Age: 16</p>
-            <p>Location: Kyrgyzstan</p>
             <p>Phone number : +996 705 313 414</p>
             <p>Address: Bishkek Ala-To2 st.Ulul-To 59t</P>
         </div>
