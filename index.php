@@ -7,7 +7,7 @@
 </head>
 <script type="text/javascript">
     function display(form) {
-        if (form.username.value == "Demo") {
+        if (form.username.value == "Ainazik") {
             if (form.password.value == "12345") {
                 location = "ainazik.php"
             } else {
