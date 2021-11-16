@@ -52,7 +52,7 @@ header .logo {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #111;
+    background: #000000;
     transition: 0.5s;
     z-index: 2;
 }
