@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="ai.css">
     <title>Ainazik</title>
-    img src="a9d068eb97b887b7e52f0b180d838b3e.jpg" alt="" style="border-radius: 50%;"
+    
 </head>
 
 <body>
