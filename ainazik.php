@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="ai.css">
-    <title>Portfolio</title>
+    <title>Ainazik</title>
 </head>
 
 <body>
@@ -27,7 +27,14 @@
             <p>Surname: Samatova </p>
             <p>Age: 16</p>
             <p>Location: Kyrgyzstan</p>
+            <p>Phone number : +996 705 313 414</p>
+            <p>Address: Bishkek Ala-To2 st.Ulul-To 59t</P>
         </div>
+       <ul class="social">
+         <li><a href="#"><img src="https://i.ibb.co/x7P24fL/facebook.png"></a></li>
+         <li><a href="#"><img src="https://i.ibb.co/Wnxq2Nq/twitter.png"></a></li>
+         <li><a href="#"><img src="https://i.ibb.co/ySwtH4B/instagram.png"></a></li>
+      </ul>
     </section>
 </body>
 
