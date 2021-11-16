@@ -27,11 +27,11 @@
             <p>Phone number : +996 705 313 414</p>
             <p>Address: Bishkek Ala-To2 st.Ulul-To 59t</P>
         </div>
-       <ul class="social">
-         <li><a href="#"><img src="https://i.ibb.co/x7P24fL/facebook.png"></a></li>
-         <li><a href="#"><img src="https://i.ibb.co/Wnxq2Nq/twitter.png"></a></li>
-         <li><a href="#"><img src="https://i.ibb.co/ySwtH4B/instagram.png"></a></li>
-      </ul>
+     <ul class="social">
+            <li><a href="https://www.facebook.com/"><img src="https://i.ibb.co/x7P24fL/facebook.png"></a></li>
+            <li><a href="https://twitter.com/"><img src="https://i.ibb.co/Wnxq2Nq/twitter.png"></a></li>
+            <li><a href="https://www.instagram.com/"><img src="https://i.ibb.co/ySwtH4B/instagram.png"></a></li>
+            </ul>
     </section>
 </body>
 
