@@ -27,7 +27,7 @@
         </div>
         </div>
         <div class="photo">
-            <img src="avatar-girl.png" alt="">
+            <img src="163672116.jpg" alt="">
         </div>
      <ul class="social">
             <li><a href="https://www.facebook.com/"><img src="https://i.ibb.co/x7P24fL/facebook.png"></a></li>
