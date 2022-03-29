@@ -1,0 +1,52 @@
+{% extends 'users/base.html' %}
+{% load crispy_forms_filters %}
+{% load crispy_forms_tags %}
+{% load static %}
+{% block title%}Log in{% endblock %}
+{% block login %}
+
+<div class="main_container">
+    <div class="user_card">
+        <div class="d-flex justify-content-center">
+            <h3 id="form-title">LOGIN</h3>
+        </div>
+        <div class="demo">
+            <form method="POST" action="">
+                {% csrf_token %}
+                <div class="input-group mb-2">
+                    <input type="text" name="username" required="">
+                    <label>Username</label>
+                </div>
+                <div class="input-group mb-2">
+                    <input type="password" name="password" required="">
+                    <label>Password</label>
+                </div>
+                <button>
+                    <span></span>
+                    <span></span>
+
+                    <span></span>
+                    <span></span>
+                    Sign in
+                </button>
+            </form>
+
+        </div>
+        {% for message in messages%}
+        <p id="messages">{{message}}</p>
+        {% endfor %}
+        <div>
+            <div style="color: white;">
+                Don't have an account? <a href="{% url 'register' %}">Sign Up</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+
+
+
+
